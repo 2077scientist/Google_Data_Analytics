@@ -32,6 +32,13 @@ The lessons in each course are also divided in week. After finishing each week, 
 
 While it is completely self-paced, Google suggests it should take you 6 months to complete while working on it 10 hours per week. Though most people should be able to complete it within a month or two, especially those who are with experience in data analytics. However, for beginners who want to kick off their career in data analytics, this course might take approximately 6 months by the suggested timeline.
 
+Learning Materials & Timeframe
+The course provides a diverse range of learning materials, including video lectures with available transcripts, readings, discussion prompts, interactive practice tools, and numerous quizzes to assess your understanding.
+
+The lessons in each course are also divided in week. After finishing each week, you will be required to take the Week Challenge and at the end of each course, there is also Course Challenge for you to complete to move on to the next stage or course.
+
+While it is completely self-paced, Google suggests it should take you 6 months to complete while working on it 10 hours per week. Though most people should be able to complete it within a month or two, especially those who are with experience in data analytics. However, for beginners who want to kick off their career in data analytics, this course might take approximately 6 months by the suggested timeline.
+
 Skills Gain
 After completing the entire course, you will gain the following skillsets:
 
@@ -52,6 +59,7 @@ R Markdown
 Tableau
 Structured Thinking
 Data Integrity
+
 Course Info
 Course 1: Foundations: Data, Data, Everywhere
 This is basically an introductory course. This initial course serves as an introduction to the field of data analytics, encompassing the core responsibilities of data analysts and the fundamental data analysis process. It effectively introduces key analytical tools like SQL and Excel, while also emphasizing the essential analytical skills necessary for data analysts. Moreover, the course explores the data life cycle to provide a comprehensive understanding of the data analysis journey.
@@ -89,7 +97,3 @@ Conclusion
 I found the course quite enjoyable as it effectively conveyed the information in a user-friendly manner. Even individuals without a mathematical or technical background should be able to successfully complete the course with dedication and effort. It provided a foundational understanding of the data analyst role while delving into the essential tools utilized by data analysts, including SQL, Tableau, and Spreadsheets.
 
 As someone who already has some experience in data analytics, I took this course quite fast since it only took me about 1 month and a half. However, I can feel that the course covers more theoretical background related to the concept which is not in-depth yet.
-
-Hence, here is the thing you should be aware of before taking the course: This program may not fully prepare you for the job market as it claims to do. Many individuals, including myself, feel that additional learning and practice beyond this course are necessary to become job-ready. For instance, refreshing your knowledge of SQL and acquiring more in-depth skills in Tableau and R might be essential. Switching careers to become a data analyst requires more than just completing this program. It entails building a comprehensive portfolio, refining your resume, and actively networking to enhance your job prospects.
-
-This Google Data Analytics Certificate Program is a very good starting point for those who are interested to kick off their career in Data Analytics in any industry as all the industry needs those who are specialized in Data Analytics to help them with the process, identify patterns, and trends, discover new opportunities and prepare for data-driven decision making for their businesses.
